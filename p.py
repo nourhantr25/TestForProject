@@ -1,4 +1,4 @@
-# TestForProject
+# TestForProject##
 #The program will accept the user’s email and password, hash the password, store it into a text file with the email, and complete the registration process.
 import hashlib
 def signup():
