@@ -28,7 +28,7 @@ def login():
      else:
          print(“Login failed! \n”)
 username="MRif@egy-cert.com"
-credintial="@Abcd1234@"
+credintial="@Abcd1234@@"
 while 1:
     print("********** Login System **********")
     print("1.Signup")
